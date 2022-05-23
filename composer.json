@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/manager",
+    "name": "socialiteprovidersfnc/manager",
     "description": "Easily add new or override built-in providers in Laravel Socialite.",
     "keywords": [
         "laravel",
